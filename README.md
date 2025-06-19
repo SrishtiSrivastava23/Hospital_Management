@@ -54,9 +54,9 @@ A simple Hospital Management System built in **C++**, designed to run in the ter
 ```bash
 g++ main.cpp patient.cpp appointment.cpp diagnosis.cpp billing.cpp -o hospital.exe
 ./hospital.exe
+```
 
----
-##Sample
+## Sample
 ===Hospital Management System ===
 1. Add Patient
 2. View All Patients
