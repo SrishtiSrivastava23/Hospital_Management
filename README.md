@@ -69,6 +69,6 @@ Enter Age: 19
 ...
 ✅ Patient added successfully!
 
-
+--------
 
 
